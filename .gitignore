@@ -1,0 +1,5 @@
+# Build output. Deliberately not committed: a STEP file in git is a geometry
+# claim that nothing checks. Run ./run.sh and the checks regenerate and verify it.
+out/
+__pycache__/
+.pytest_cache/
